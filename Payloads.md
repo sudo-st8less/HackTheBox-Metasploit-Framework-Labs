@@ -1,4 +1,4 @@
-### HTB Pentester Path <br>
+### CPTS / HTB Penetration Tester Path <br>
 ### Metasploit Framework - Payloads <br>
 <mark>hook it up with a &#x2B50; if this helps.</mark> <br>
 🐦: @<a href="https://x.com/st8less">**st8less**</a>
